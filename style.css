@@ -1,0 +1,27 @@
+body {
+  font-family: monospace;
+  padding: 10px;
+}
+
+.temperature {
+  color: #5a6bca;
+  text-align: center;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.float-left {
+  text-align: center;
+}
+
+h2 {
+  color: #5a6bca;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 0;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
